@@ -2,13 +2,14 @@
 layout: default
 ---
 ## Привет! Меня зовут Егор и я разработчик из Казани.
-### Мой стек:
+### Я умею:
 - Ruby on Rails, Ruby
-- HTML (в том числе Haml, Slim), CSS, немного знаком с javascript
+- HTML (в том числе Haml, Slim), CSS, немного знаком с JavaScript
 - SQL (в основном - PostgreSQL)
+- GraphQL
 - Git
-- Linux (Ubuntu, Debian), MacOS
 - Jekyll
+- Работать с Linux (Ubuntu, Debian) и MacOS
 
 
 ### Образование:
@@ -16,14 +17,17 @@ layout: default
 Факультет: Высшая школа информационных технологий и интеллектуальных систем.
 
 ### Опыт работы:
-[HeadMade](http://headmade.pro){:target="_blank"} - С начала 2018 года RoR-developer.
+[HeadMade](http://headmade.pro){:target="_blank"} - С начала 2018 года, RoR-developer.
 
 
-#### Проекты:
-- [uslugi.kzn.ru](https://uslugi.kzn.ru/){:target="_blank"} - разработка проекта используя Ruby on Rails, перевод муниципальных услуг в электронный формат используя JSON Schema, внедрение микросервисной архитектуры.
-- [dispute.kzn.ru](https://dispute.kzn.ru/){:target="_blank"} - разработка проекта используя Ruby on Rails, подготовка ПО для информационных стендов.
-- [flowers.kzn.ru](https://flowers.kzn.ru/){:target="_blank"} - поддержка и доработка  проекта используя старые версии фреймворка Ruby on Rails.
-- [edoc-schema.kzn.ru](http://edoc-schema.kzn.ru/){:target="_blank"} - разработка проекта и перевод муниципальных услуг в электронный формат используя Jekyll, Ruby,  JSON Schema.
+#### Интересные проекты в которых я принимал участие:
+- [ИС Услуги](https://uslugi.kzn.ru/){:target="_blank"} - разработка проекта используя Ruby on Rails, перевод муниципальных услуг в электронный формат используя JSON Schema, реализация микросервисной архитектуры. [подробнее...](./pages/uslugi_kzn.html)
+
+- [ИС Мнение](https://dispute.kzn.ru/){:target="_blank"} - разработка проекта используя Ruby on Rails, подготовка ПО для информационных стендов. [подробнее...](./pages/dispute_kzn.html)
+
+- [Цветущая Казань](https://flowers.kzn.ru/){:target="_blank"} - поддержка и доработка  проекта используя старые версии фреймворка Ruby on Rails. [подробнее...](./pages/flowers_kzn.html)
+
+- [EDOC Schema (Electronic Document Schema)](http://edoc-schema.kzn.ru/){:target="_blank"} - разработка проекта и перевод муниципальных услуг в электронный формат используя Jekyll, Ruby,  JSON Schema. [подробнее...](./pages/edoc.html)
 
 
 ### Знание иностранных языков:
