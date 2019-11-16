@@ -1,123 +1,38 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Привет! Меня зовут Егор и я разработчик из Казани.
+### Мой стек:
+- Ruby on Rails, Ruby
+- HTML (в том числе Haml, Slim), CSS, немного знаком с javascript
+- SQL (в основном - PostgreSQL)
+- Git
+- Linux (Ubuntu, Debian), MacOS
+- Jekyll
 
 
-### Definition lists can be used with HTML syntax.
+### Образование:
+2019 - Казанский (Приволжский) федеральный университет, Казань.
+Факультет: Высшая школа информационных технологий и интеллектуальных систем.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### Опыт работы:
+[HeadMade](http://headmade.pro){:target="_blank"} - С начала 2018 года RoR-developer.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+#### Проекты:
+- [uslugi.kzn.ru](https://uslugi.kzn.ru/){:target="_blank"} - разработка проекта используя Ruby on Rails, перевод муниципальных услуг в электронный формат используя JSON Schema, внедрение микросервисной архитектуры.
+- [dispute.kzn.ru](https://dispute.kzn.ru/){:target="_blank"} - разработка проекта используя Ruby on Rails, подготовка ПО для информационных стендов.
+- [flowers.kzn.ru](https://flowers.kzn.ru/){:target="_blank"} - поддержка и доработка  проекта используя старые версии фреймворка Ruby on Rails.
+- [edoc-schema.kzn.ru](http://edoc-schema.kzn.ru/){:target="_blank"} - разработка проекта и перевод муниципальных услуг в электронный формат используя Jekyll, Ruby,  JSON Schema.
+
+
+### Знание иностранных языков:
+- Английский - В1. Читаю документацию. Могу поддержать несложный диалог и вести переписку.
+- Немецкий - А2. Могу поддержать простой диалог. В случае предоставления языковой практики быстро вернусь на разговорный уровень.
+
+### Обо мне:
+- Легко нахожу общий язык с коллегами.
+- Люблю изучать новое.
+- Могу работать как и в команде, так и в одиночку.
+- Умею вводить в курс проекта разного уровня разработчиков.
+- Обожаю списки с точками.
