@@ -6,10 +6,12 @@ layout: default
 - Ruby on Rails, Ruby
 - HTML (в том числе Haml, Slim), CSS, немного знаком с JavaScript
 - SQL (в основном - PostgreSQL)
-- GraphQL
 - Git
+- Redis, Sidekiq
+- GraphQL
 - Jekyll
 - Работать с Linux (Ubuntu, Debian) и MacOS
+- Работать с таск-треккерами (в основном c Redmine, также знаком с Trello и Pivotal Tracker)
 
 
 ### Образование:
@@ -37,6 +39,7 @@ layout: default
 ### Обо мне:
 - Легко нахожу общий язык с коллегами.
 - Люблю изучать новое.
+- Умею погружаться в проектную область.
 - Могу работать как и в команде, так и в одиночку.
 - Умею вводить в курс проекта разного уровня разработчиков.
 - Обожаю списки с точками.
