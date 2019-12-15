@@ -1,0 +1,55 @@
+---
+name: Павлов Егор
+position: Ruby on Rails developer
+location: Казань
+contacts:
+  site: https://pavlovegor.github.io/
+  mail: pavlov_egor007@mail.ru
+  gmail: pavlovegor006@gmail.com
+  telegram: pavlov_egor
+  github: https://github.com/pavlovegor
+skils:
+  - Ruby on Rails, Ruby
+  - HTML (в том числе Haml, Slim), CSS, немного знаком с JavaScript
+  - SQL (в основном - PostgreSQL)
+  - Git
+  - Redis, Sidekiq
+  - GraphQL
+  - Jekyll
+  - Умею работать с Linux (Ubuntu, Debian) и MacOS
+  - Умею работать с таск-треккерами (в основном c Redmine, также знаком с Trello и Pivotal Tracker)
+education:
+  - year_ending: 2019
+    name:  "Казанский (Приволжский) федеральный университет, Казань. Факультет: Высшая школа информационных технологий и интеллектуальных систем."
+experience:
+  - work_dates: С начала 2018 года
+    name: HeadMade
+    url: http://headmade.pro
+    position:  Ruby on Rails developer
+projects:
+  - name: ИС Услуги
+    url: https://uslugi.kzn.ru/
+    short_information: разработка проекта используя Ruby on Rails, перевод муниципальных услуг в электронный формат используя JSON Schema, реализация микросервисной архитектуры.
+  - name: ИС Мнение
+    url: https://dispute.kzn.ru/
+    short_information: разработка проекта используя Ruby on Rails, подготовка ПО для информационных стендов
+  - name: Цветущая Казань
+    url: https://flowers.kzn.ru/
+    short_information: поддержка и доработка  проекта используя старые версии фреймворка Ruby on Rails.
+  - name: EDOC Schema (Electronic Document Schema)
+    url: http://edoc-schema.kzn.ru/
+    short_information: разработка проекта и перевод муниципальных услуг в электронный формат используя Jekyll, Ruby,  JSON Schema.
+languages:
+  - name: Английский
+    level: В1
+    description: Читаю документацию. Могу поддержать несложный диалог и вести переписку.
+  - name: Немецкий
+    level: А2
+    description: Могу поддержать простой диалог. В случае предоставления языковой практики быстро вернусь на разговорный уровень.
+personal_qualities:
+  - Легко нахожу общий язык с коллегами.
+  - Люблю изучать новое.
+  - Умею погружаться в проектную область.
+  - Могу работать как и в команде, так и в одиночку.
+  - Умею вводить в курс проекта разного уровня разработчиков.
+  - Обожаю списки.
