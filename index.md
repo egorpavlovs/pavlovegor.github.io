@@ -20,8 +20,8 @@ layout: default
 Факультет: Высшая школа информационных технологий и интеллектуальных систем.
 
 ### Опыт работы:
-[HeadMade](http://headmade.pro){:target="_blank"} - Февраль 2018 - Май 2021, RoR-developer.
-[Flatstack](http://flatstack.com){:target="_blank"} - Май 2021, RoR-developer.
+- [HeadMade](http://headmade.pro){:target="_blank"} - Февраль 2018 - Май 2021, RoR-developer.
+- [Flatstack](http://flatstack.com){:target="_blank"} - Май 2021, RoR-developer.
 
 
 #### Интересные проекты в которых я принимал участие:
