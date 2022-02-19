@@ -6,14 +6,13 @@ layout: default
 
 ### Я умею:
 - Ruby on Rails, Ruby
-- HTML (в том числе Haml, Slim), CSS, немного знаком с JavaScript
-- SQL (в основном - PostgreSQL)
-- Git
-- Redis, Sidekiq
+- SQL (в основном PostgreSQL)
+- MongoDB, Redis
+- Sidekiq
 - GraphQL
-- Jekyll
-- Работать с Linux (Ubuntu, Debian) и MacOS
-- Работать с таск-треккерами (в основном c Redmine, также знаком с Trello и Pivotal Tracker)
+- HTML (в том числе Haml, Slim), CSS, немного знаком с JavaScript
+- Git
+- Умею работать с MacOS и Linux (Ubuntu, Debian)
 
 
 ### Образование:
@@ -21,13 +20,16 @@ layout: default
 Факультет: Высшая школа информационных технологий и интеллектуальных систем.
 
 ### Опыт работы:
-[HeadMade](http://headmade.pro){:target="_blank"} - С начала 2018 года, RoR-developer.
+[HeadMade](http://headmade.pro){:target="_blank"} - Февраль 2018 - Май 2021, RoR-developer.
+[Flatstack](http://flatstack.com){:target="_blank"} - Май 2021, RoR-developer.
 
 
 #### Интересные проекты в которых я принимал участие:
-- [ИС Услуги](./pages/uslugi_kzn.html) - разработка проекта используя Ruby on Rails, перевод муниципальных услуг в электронный формат используя JSON Schema, взаимодействие с сторонними API, реализация микросервисной архитектуры. Проект - [uslugi.kzn.ru](http://uslugi.kzn.ru){:target="_blank"}
+- [Westwoodenergy](https://www.westwoodenergy.com)- Ruby on Rails и MongoDB
+- [Impact+](https://app.impactplus.com/)- Ruby on Rails, рефакторинг легаси кода, реализация новых фич
+- [ИС Услуги](./pages/uslugi_kzn.html) - Ruby on Rails, перевод муниципальных услуг в электронный формат используя JSON Schema, взаимодействие с сторонними API, реализация микросервисной архитектуры. Проект - [uslugi.kzn.ru](http://uslugi.kzn.ru){:target="_blank"}
 
-- [ИС Мнение](./pages/dispute_kzn.html) - разработка проекта используя Ruby on Rails, подготовка ПО для информационных стендов. Проект - [dispute.kzn.ru](http://dispute.kzn.ru){:target="_blank"}
+- [ИС Мнение](./pages/dispute_kzn.html) - Ruby on Rails, подготовка ПО для информационных стендов. Проект - [dispute.kzn.ru](http://dispute.kzn.ru){:target="_blank"}
 
 - [Цветущая Казань](./pages/flowers_kzn.html) - поддержка и доработка  проекта используя старые версии фреймворка Ruby on Rails. Проект - [flowers.kzn.ru](http://flowers.kzn.ru){:target="_blank"}
 

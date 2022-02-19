@@ -19,15 +19,13 @@ Prawn::Document.generate("pages/print/resume.pdf") do
 
   contacts_config = {
     "site" => "Сайт: ",
-    "telegram" => "Telegram: ",
-    "gmail" => "Gmail: ",
     "mail" => "Email: " ,
     "github" => "GitHub: "
   }
 
   default_me = "assets/img/default_me.jpeg"
   contacts = contacts_config.map { |key, title| [title, data['contacts'][key]].join }.join("\n")
-  table [[{image: default_me, fit: [150, 150]}, content: contacts]], column_widths: [200, 200], cell_style: { border_width: 0 }
+  table [[{image: default_me, fit: [150, 150]}, content: contacts]], column_widths: [200, 250], cell_style: { border_width: 0 }
 
   config = {
     "skils" => "Навыки:",

@@ -4,41 +4,48 @@ position: Ruby on Rails developer
 location: Казань
 contacts:
   site: https://pavlovegor.github.io/
-  mail: pavlov_egor007@mail.ru
-  gmail: pavlovegor006@gmail.com
-  telegram: pavlov_egor
-  github: https://github.com/pavlovegor
+  mail: pavlovegor006@gmail.com
+  github: https://github.com/egorpavlovs
 skils:
   - Ruby on Rails, Ruby
-  - HTML (в том числе Haml, Slim), CSS, немного знаком с JavaScript
-  - SQL (в основном - PostgreSQL)
-  - Git
-  - Redis, Sidekiq
+  - SQL (в основном PostgreSQL)
+  - MongoDB, Redis
+  - Sidekiq
   - GraphQL
-  - Jekyll
-  - Умею работать с Linux (Ubuntu, Debian) и MacOS
-  - Умею работать с таск-треккерами (в основном c Redmine, также знаком с Trello и Pivotal Tracker)
+  - HTML (в том числе Haml, Slim), CSS, немного знаком с JavaScript
+  - Git
+  - Умею работать с MacOS и Linux (Ubuntu, Debian)
 education:
   - year_ending: 2019
     name:  "Казанский (Приволжский) федеральный университет, Казань. Факультет: Высшая школа информационных технологий и интеллектуальных систем."
 experience:
-  - work_dates: С начала 2018 года
+  - work_dates: Февраль 2018 - Май 2021
     name: HeadMade
     url: http://headmade.pro
     position:  Ruby on Rails developer
+  - work_dates: Май 2021
+    name: Flatstack
+    url: http://flatstack.com
+    position:  Ruby on Rails developer
 projects:
+  - name: Westwoodenergy
+    url: https://www.westwoodenergy.com
+    short_information: Ruby on Rails и MongoDB
+  - name: Impact+
+    url: https://app.impactplus.com/
+    short_information: Ruby on Rails, рефакторинг легаси кода, реализация новых фич
   - name: ИС Услуги
     url: https://uslugi.kzn.ru/
-    short_information: разработка проекта используя Ruby on Rails, перевод муниципальных услуг в электронный формат используя JSON Schema, реализация микросервисной архитектуры.
+    short_information: Ruby on Rails, перевод муниципальных услуг в электронный формат используя JSON Schema, реализация микросервисной архитектуры.
   - name: ИС Мнение
     url: https://dispute.kzn.ru/
-    short_information: разработка проекта используя Ruby on Rails, подготовка ПО для информационных стендов
+    short_information: Ruby on Rails, подготовка ПО для информационных стендов
   - name: Цветущая Казань
     url: https://flowers.kzn.ru/
-    short_information: поддержка и доработка  проекта используя старые версии фреймворка Ruby on Rails.
+    short_information: поддержка и доработка проекта используя старые версии Ruby on Rails.
   - name: EDOC Schema (Electronic Document Schema)
     url: http://edoc-schema.kzn.ru/
-    short_information: разработка проекта и перевод муниципальных услуг в электронный формат используя Jekyll, Ruby,  JSON Schema.
+    short_information: разработка проекта и перевод муниципальных услуг в электронный формат используя Jekyll, Ruby, JSON Schema.
 languages:
   - name: Английский
     level: В1
