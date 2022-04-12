@@ -28,11 +28,11 @@ experience:
     url: http://flatstack.com
     position:  Ruby on Rails developer
 projects:
-  - name: Westwoodenergy
-    url: https://www.westwoodenergy.com
+  - name: NDA
+    url: NDA
     short_information: Ruby on Rails и MongoDB
-  - name: Impact+
-    url: https://app.impactplus.com/
+  - name: NDA
+    url: NDA
     short_information: Ruby on Rails, рефакторинг легаси кода, реализация новых фич
   - name: ИС Услуги
     url: https://uslugi.kzn.ru/

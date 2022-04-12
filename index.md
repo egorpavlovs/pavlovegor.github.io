@@ -25,8 +25,8 @@ layout: default
 
 
 #### Интересные проекты в которых я принимал участие:
-- [Westwoodenergy](https://www.westwoodenergy.com)- Ruby on Rails и MongoDB
-- [Impact+](https://app.impactplus.com/)- Ruby on Rails, рефакторинг легаси кода, реализация новых фич
+- NDA- Ruby on Rails и MongoDB
+- NDA- Ruby on Rails, рефакторинг легаси кода, реализация новых фич
 - [ИС Услуги](./pages/uslugi_kzn.html) - Ruby on Rails, перевод муниципальных услуг в электронный формат используя JSON Schema, взаимодействие с сторонними API, реализация микросервисной архитектуры. Проект - [uslugi.kzn.ru](http://uslugi.kzn.ru){:target="_blank"}
 
 - [ИС Мнение](./pages/dispute_kzn.html) - Ruby on Rails, подготовка ПО для информационных стендов. Проект - [dispute.kzn.ru](http://dispute.kzn.ru){:target="_blank"}
